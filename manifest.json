@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "realpython",
+  "repo": "pytest-mypy",
+  "versions": [
+    {
+      "commit": "b578993c4cbb4bbf3f16aceef123b67825fe5aff",
+      "parsed_at": "2026-11-06T02:11:07.535101+00:00",
+      "tag": "v1.1.0",
+      "filetree": "filetree/b578993c4cbb4bbf3f16aceef123b67825fe5aff.nq.gz",
+      "blobs": [
+        "blob/b12ace61523f6198a23aa9ba695383ea859084bf.nq.gz",
+        "blob/2306bcc9daa419097086b6c3fff51f7302f650af.nq.gz",
+        "blob/a71c33667d50a8fe17c143ddfdd2ebbd24710018.nq.gz",
+        "blob/26b71fba5d7f5683805adbb454b0a94fdd1f160d.nq.gz",
+        "blob/0db2324608427ed6a9287751cb69f777294367e5.nq.gz",
+        "blob/4a19aa0f59eed843f65213fc364117ab535fbb09.nq.gz",
+        "blob/a4455fbc19c158a928d1db96d2f53e9f6afd2486.nq.gz",
+        "blob/803bbe64a70b7e8728c7f6284810e127013d8e06.nq.gz",
+        "blob/c0c219be58d95f4851ae22d8869fbcc47a5d0b29.nq.gz",
+        "blob/962681b209360c7ec8905cdd82b1c21f37e20dae.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ba1bf816d43b0887a2e5168aefa79042513c8b6e.nq.gz",
+        "blob/ef37f37715a0c9e0d97e10dacd48722acfc2ebc6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
