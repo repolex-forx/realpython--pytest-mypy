@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/realpython/pytest-mypy/commit/b578993c4cbb4bbf3f16aceef123b67825fe5aff",
       "git:hexsha": "b578993c4cbb4bbf3f16aceef123b67825fe5aff",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.1.0",
+      "repolex:parsedAt": "2026-11-06T02:13:28.668334+00:00"
     },
     {
       "@id": "https://repolex.ai/r/realpython/pytest-mypy/commit/3f440b0f37e7d6a3b556c59f22a8dc24c90ab754",
