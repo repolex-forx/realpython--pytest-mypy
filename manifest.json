@@ -56,6 +56,46 @@
       ],
       "ast": [
         "aggregate/ast/1b3e931cb6ff00b47436455c69e3cd978b745479/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1b3e931cb6ff00b47436455c69e3cd978b745479.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "filelock",
+          "ecosystem": "PYPI",
+          "version": "3.0",
+          "githubOrg": "tox-dev",
+          "githubRepo": "filelock",
+          "githubUrl": "https://github.com/tox-dev/filelock",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "1.0",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "7.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "packaging",
+          "ecosystem": "PYPI",
+          "version": "26.3.0",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubUrl": "https://github.com/pypa/packaging",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/packaging/version.py"
+        }
       ]
     }
   ],
